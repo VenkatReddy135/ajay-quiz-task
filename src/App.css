@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.answerOptions {
+  list-style-type: none;
+}
+
+.questionCount {
+  padding: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #eeeeee;
+}
+.buttonMargin {
+  margin-left: 5px;
+}

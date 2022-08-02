@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card  component renders a snapshot 1`] = `
+<div
+  style={
+    Object {
+      "marginTop": "10em",
+    }
+  }
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "margin": "auto",
+        "width": "20rem",
+      }
+    }
+  >
+    <div
+      className="card-body"
+    >
+      <h2
+        className="card-title"
+      >
+        
+      </h2>
+      <div
+        className="card-text"
+      />
+    </div>
+  </div>
+</div>
+`;

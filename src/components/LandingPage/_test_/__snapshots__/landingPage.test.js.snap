@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing page component renders a snapshot 1`] = `
+<div
+  className="container"
+  style={
+    Object {
+      "marginLeft": "40%",
+      "marginTop": "22%",
+    }
+  }
+>
+  <button
+    className="btn btn-warning"
+    onClick={[Function]}
+    type="button"
+    value=""
+  >
+    Start Quiz
+  </button>
+</div>
+`;

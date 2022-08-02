@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Questions component renders a snapshot 1`] = `
+Array [
+  <div
+    className="container"
+    style={
+      Object {
+        "marginBottom": "1em",
+        "marginTop": "2em",
+      }
+    }
+  >
+    <button
+      className="btn btn-info"
+      type="button"
+      value=""
+    >
+      3:20
+    </button>
+  </div>,
+  " ",
+  <div
+    className="container"
+  >
+    <div
+      className="questionCount"
+    >
+      Question 
+      <span>
+        1
+      </span>
+       of 
+      <span>
+        6
+      </span>
+    </div>
+    <div>
+      <p
+        className="fs-2"
+      >
+        
+      </p>
+    </div>
+    <ul
+      className="answerOptions"
+    />
+    <div
+      className="bottom-footer"
+    >
+      <div />
+      <button
+        className="btn btn-warning buttonMargin"
+        onClick={[Function]}
+        type="button"
+        value=""
+      >
+        Next
+      </button>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row-reverse",
+        }
+      }
+    />
+  </div>,
+]
+`;

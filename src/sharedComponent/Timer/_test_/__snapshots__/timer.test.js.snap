@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Timer component renders a snapshot 1`] = `
+<div
+  className="container"
+  style={
+    Object {
+      "marginBottom": "1em",
+      "marginTop": "2em",
+    }
+  }
+>
+  <button
+    className="btn btn-info"
+    type="button"
+    value=""
+  >
+    3:20
+  </button>
+</div>
+`;

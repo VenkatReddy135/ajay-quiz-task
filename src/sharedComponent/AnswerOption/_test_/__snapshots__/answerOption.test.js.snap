@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Answer Options component renders a snapshot 1`] = `
+<li
+  className="answerOption"
+  style={
+    Object {
+      "margin": "2px",
+    }
+  }
+>
+  <button
+    className="btn btn-success"
+    type="button"
+    value=""
+  >
+    
+  </button>
+</li>
+`;
